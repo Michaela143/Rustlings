@@ -8,3 +8,7 @@
 fn main() {
     call_me();
 }
+fn call_me(){
+    println!("Hello World!");
+}
+//call_me 函数并没有被定义

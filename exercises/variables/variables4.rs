@@ -6,7 +6,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x = 3;
+    let mut x = 3;// 使用 let mut 声明可变变量
     println!("Number {}", x);
     x = 5; // don't change this line
     println!("Number {}", x);

@@ -11,5 +11,5 @@ fn main() {
 }
 
 fn square(num: i32) -> i32 {
-    num * num;
+    num * num//表达式是函数的返回值，不应添加分号
 }
